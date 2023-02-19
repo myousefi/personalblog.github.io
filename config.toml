@@ -1,0 +1,4 @@
+baseURL = 'http://myousefi.github.com/'
+languageCode = 'en-us'
+title = 'Machine Musings'
+theme = 'hugo-tufte'
