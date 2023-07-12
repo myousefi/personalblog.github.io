@@ -5,7 +5,7 @@ languageCode = "en-us"
 # The url of your website
 baseurl = "https://myousefi.github.io/"
 # The title of your website (shown on all the pages)
-title = "Machine Musings"
+title = "MY Blog"
 # Site wide kill switch for Latex support
 math = true
 # (If math is enabled) 
@@ -14,7 +14,7 @@ katex = true
 
 [params]
   # Subtitle of the website
-  subtitle = "Musings on Machine Learning, Math, and Programming"
+  subtitle = "On Life, Liberty, and the Pursuit of Happiness"
   # Your name or the name of you company
   copyrightHolder = "Mojtaba Yousefi"
   # Show the "Powered by Hugo-Tufte and Hugo." 
